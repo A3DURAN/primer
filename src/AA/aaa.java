@@ -27,6 +27,7 @@ System.setProperty("webdriver.gecko.driver", "/Users/aduran6/Documents/PRIMERAUT
 	
 	 System.out.println("siso");
 		System.out.println("Hola");
+		System.out.println("3");
 	}
 
 }
