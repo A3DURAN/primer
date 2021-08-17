@@ -24,6 +24,8 @@ System.setProperty("webdriver.gecko.driver", "/Users/aduran6/Documents/PRIMERAUT
 		aaa obj = new aaa ();
 		
 		obj.launchBrowser();
+	
+	 System.out.println("siso");
 		
 	}
 
